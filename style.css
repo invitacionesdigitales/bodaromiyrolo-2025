@@ -73,7 +73,7 @@
     
   
     .cr-time > span {
-        font-size: 30px;
+        font-size: 40px;
         font-weight: bold;
         color: #b88348;
         font-family: 'Julius Sans One', sans-serif;
@@ -167,8 +167,20 @@
         left: 100%;
       }
   
-
-
+.almanaque{
+    width: 85%;
+    margin-left: 10%;
+    margin-top: -8%;
+    
+  }
+  
+ 
+.programa{
+    width: 82%;
+    margin-left: 17%;
+    margin-top: -17%;
+    
+  }
     .parrafo1{
       text-align: center;
       font-family: 'Julius Sans One', sans-serif;
@@ -184,24 +196,52 @@
     margin-top: -4%;
   }
   
-  .frase{
+    .parrafo1{
+      text-align: center;
+      font-family: 'Julius Sans One', sans-serif;
+           font-size: 17px;
+           color: #1c1c1c;
+           font-weight: 800;
+           margin-left: -25%;
+           margin-top: 2%;
+    }
+  .ceremonia{
     text-align: center;
-    font-size: 28px;
-    color: #636363;
-    margin-top: 20%; 
-    font-weight: 550;
-    margin: 13%;
+    font-size: 23px;
+    color: #8c6721;
+    margin-top: -115%; 
+    font-weight: 600;
+    margin-left: -25%;
     font-family: 'Dancing Script', cursive; 
   }
-  .fiesta{
-    text-align: center;
-    font-size: 35px;
-    color: #b88d2c;
-    margin-top: 2%; 
-    font-weight: 550;
-    margin: 13%;
-    font-family: 'Dancing Script', cursive; 
-  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .obsequio{
     text-align: center;
     font-size: 35px;
