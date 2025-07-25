@@ -21,7 +21,7 @@
 * body {
     padding: 0;
     box-sizing: border-box;
-    background-image: url(./imagenes/fondo.jpg);
+    background-image: url(./imagenes/modelos\ \(7\).jpg);
     background-size: 100%;
   }
   
@@ -64,7 +64,7 @@
         justify-content: center;
         gap: 1em;
         padding: 0.3em;
-        margin-top: 15%;
+        margin-top: 10%;
     }
     
   .portada{
@@ -170,7 +170,7 @@
 .almanaque{
     width: 85%;
     margin-left: 10%;
-    margin-top: -8%;
+    margin-top: -25%;
     
   }
   
@@ -178,16 +178,25 @@
 .programa{
     width: 82%;
     margin-left: 17%;
-    margin-top: -17%;
+    margin-top: -39%;
     
   }
+
+ 
+.programados{
+    width: 82%;
+    margin-left: 17%;
+    margin-top: -47%;
+    
+  }
+
     .parrafo1{
       text-align: center;
       font-family: 'Julius Sans One', sans-serif;
            font-size: 20px;
            color: #626262;
            font-weight: 600;
-           margin-top: 20%;
+        
     }
   .seccion-fiesta{
     margin-top: -5%;
@@ -199,7 +208,7 @@
     .parrafo1{
       text-align: center;
       font-family: 'Julius Sans One', sans-serif;
-           font-size: 17px;
+           font-size: 18px;
            color: #1c1c1c;
            font-weight: 800;
            margin-left: -25%;
@@ -207,21 +216,67 @@
     }
   .ceremonia{
     text-align: center;
-    font-size: 23px;
+    font-size: 24px;
     color: #8c6721;
-    margin-top: -115%; 
+    margin-top: -187%; 
+    font-weight: 600;
+    margin-left: -25%;
+    font-family: 'Dancing Script', cursive; 
+  }
+
+ .almuerzo{
+    text-align: center;
+    font-size: 24px;
+    color: #8c6721;
+    margin-top: 8%; 
     font-weight: 600;
     margin-left: -25%;
     font-family: 'Dancing Script', cursive; 
   }
 
 
+    .parrafo2{
+      text-align: center;
+      font-family: 'Julius Sans One', sans-serif;
+           font-size: 18px;
+           color: #1c1c1c;
+           font-weight: 800;
+           margin-left: -25%;
+           margin-top: 2%;
+    }
 
 
+.vestimenta{
+    text-align: center;
+    font-size: 24px;
+    color: #8c6721;
+    margin-top: 15%; 
+    font-weight: 600;
+    margin-left: -20%;
+    font-family: 'Dancing Script', cursive; 
+  }
 
 
+    .parrafo3{
+      text-align: center;
+      font-family: 'Julius Sans One', sans-serif;
+           font-size: 17px;
+           color: #1c1c1c;
+           font-weight: 900;
+           margin-left: -20%;
+           margin-top: 2%;
+    }
 
 
+.fin{
+    text-align: center;
+    font-size: 24px;
+    color: #8c6721;
+    margin-top: 27%; 
+    font-weight: 600;
+    margin-left: -15%;
+    font-family: 'Dancing Script', cursive; 
+  }
 
 
 
@@ -347,15 +402,6 @@ margin-left:-15% ;
   background-image: url(./imagenes/5af1f7230024abf57e8020427471018e.gif);
   background-size:30%;
 
-}
-.parrafo3{
-  text-align: center;
-    font-size: 25px;
-    color: #4c4c4c;
-    margin-top: 5%; 
-    font-family: "Arsenal SC", sans-serif;
-    font-weight: 400;
-       
 }
 
 
