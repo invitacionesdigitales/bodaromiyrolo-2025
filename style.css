@@ -36,14 +36,13 @@
     font-size: 14px;
     font-weight: 600;
     text-align: center;
-    margin-top: -10%;
-    color: #000000;
+       
    
    }
     h5{
     font-size: 15px;
     text-align: center;
-    margin-top: -20%;
+    
     
     
     }
@@ -53,10 +52,14 @@
       margin-left: 32%;
       background-color:  #b8844827;
       color: #000000;
+    
   
       
   }
-  
+  .caja-audio{
+
+  margin-top: -10%;
+   }
     
 
       .cuenta-regresiva {
@@ -82,8 +85,8 @@
         
     }
     .cr-desc {
-        color: #737373;
-        font-weight: 500;
+        color: #454545;
+        font-weight: 600;
         font-family: 'Julius Sans One', sans-serif;
         font-size: 15px;
         
